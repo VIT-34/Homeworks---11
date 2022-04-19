@@ -1,4 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information  
+﻿// Определите, является ли число степенью двойки:
+//N = 16 -> "Является степень двойки"
+//N = 12 -> “Не является степенью двойки”
+ 
 
  
 class Program
